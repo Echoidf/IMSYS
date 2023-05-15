@@ -1,3 +1,6 @@
+使用Go实现一个即时通信系统，学习自刘丹冰老师，b站教程视频：
+https://www.bilibili.com/video/BV1gf4y1r79E
+
 ## 1.创建 Server 测试客户端连接
 mac： 
 
